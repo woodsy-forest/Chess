@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{973EBC33-4FED-4744-B308-099373EDA776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{EB86666D-AEED-4CA8-B8D5-8BA7F2957F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counter", "Counter\Counter.csproj", "{7B80FC1F-CB32-47F4-895F-2BCFA09064B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973EBC33-4FED-4744-B308-099373EDA776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973EBC33-4FED-4744-B308-099373EDA776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973EBC33-4FED-4744-B308-099373EDA776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973EBC33-4FED-4744-B308-099373EDA776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB86666D-AEED-4CA8-B8D5-8BA7F2957F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB86666D-AEED-4CA8-B8D5-8BA7F2957F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB86666D-AEED-4CA8-B8D5-8BA7F2957F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB86666D-AEED-4CA8-B8D5-8BA7F2957F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B80FC1F-CB32-47F4-895F-2BCFA09064B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B80FC1F-CB32-47F4-895F-2BCFA09064B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B80FC1F-CB32-47F4-895F-2BCFA09064B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B80FC1F-CB32-47F4-895F-2BCFA09064B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE054655-DF22-425A-948D-5C3880E5A695}
+	EndGlobalSection
+EndGlobal
